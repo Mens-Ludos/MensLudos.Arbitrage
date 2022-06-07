@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arbitrage.Dexes", "Arbitrage.Dexes\Arbitrage.Dexes.csproj", "{FDEFDB2A-8BFA-40F5-8B9A-FDC71EE3145F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDEFDB2A-8BFA-40F5-8B9A-FDC71EE3145F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEFDB2A-8BFA-40F5-8B9A-FDC71EE3145F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEFDB2A-8BFA-40F5-8B9A-FDC71EE3145F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEFDB2A-8BFA-40F5-8B9A-FDC71EE3145F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
